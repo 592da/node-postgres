@@ -1,5 +1,5 @@
 {
-  "name": "node-postgres",
+  "name": "pg",
   "description": "node postgres monorepo",
   "main": "index.js",
   "version":"7.18.3",
